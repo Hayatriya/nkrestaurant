@@ -6,7 +6,7 @@ a{
 .container{
 width:100%;
 height:100vh;
-background-image:url("https://ak5.picdn.net/shutterstock/videos/21658243/thumb/1.jpg" );
+background-image:url("img/thirteen.jpg" );
    font-size:500px;
    font-weight:bold;
 vertical-align: middle;
@@ -36,11 +36,11 @@ backgroundposition: fixed;
    padding-left:5%;
 }
   .content-part-1{
-   background-image:url("https://c4.wallpaperflare.com/wallpaper/879/754/332/blurred-colorful-vertical-portrait-display-wallpaper-preview.jpg" );
+   background-image:url("img/twelve.jpg" );
    padding-left:5%;
 } 
 .content-part-2{
-   background-image:url("https://c4.wallpaperflare.com/wallpaper/879/754/332/blurred-colorful-vertical-portrait-display-wallpaper-preview.jpg" );
+   background-image:url("img/twelve.jpg" );
 padding-left: 15;
 text-align: center;
    
@@ -69,7 +69,7 @@ text-align: center;
    padding-left: 2%;
 }
 .content-part-3{
-   background-image:url("https://c4.wallpaperflare.com/wallpaper/879/754/332/blurred-colorful-vertical-portrait-display-wallpaper-preview.jpg" );
+   background-image:url("img/twelve.jpg" );
    
    padding-left:8%;
 }
@@ -79,11 +79,11 @@ padding-left: 15%;
 }
 .content-part-4{
    padding-left:5%;
-   background-image:url("https://c4.wallpaperflare.com/wallpaper/879/754/332/blurred-colorful-vertical-portrait-display-wallpaper-preview.jpg" );
+   background-image:url("img/twelve.jpg" );
 }
 .content-part-5{
    padding-left:5%;
-   background-image:url("https://c4.wallpaperflare.com/wallpaper/879/754/332/blurred-colorful-vertical-portrait-display-wallpaper-preview.jpg" );
+   background-image:url("img/twelve.jpg");
   
 }
 .content-part-5 h1{
